@@ -3,7 +3,7 @@
 ![PyPI version](https://img.shields.io/badge/mememo-v1.1-5FC33B)
 ![Python version](https://img.shields.io/badge/python-2.5+-blue)
 ![Lightweight](https://img.shields.io/badge/lightweighter_than-numpy_or_statistics-red)
-![Github](https://pypi-camo.freetls.fastly.net/23118282b10fb95911c44c745f183334700c10a4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6f6e2d4769746875622d677265656e)
+![Github](https://camo.githubusercontent.com/35ef8feea7fa09be92aac4698ba424242080e41d56dde55660b1641caa77140f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6f6e2d507950492d626c7565)
 
  The lightweight package to find the mean, median, and mode. (Hence the name MEanMEdianMOde)
 
