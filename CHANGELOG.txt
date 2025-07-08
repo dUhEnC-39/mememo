@@ -1,1 +1,16 @@
-g
+Changelog for the mememo package:
+---------------------------------------------------------
+mememo v1.1 (July 8, 2025):
+  Implemented changelog in mememo package in this Github repo.
+  Rewrited README.md.    
+ 
+mememo v1.0.0.post0/v1.0.0r0 (May 13, 2025):
+  Rewritted mode() considering incorrect function (max()) was implemented since v1.0.1b0
+ 
+mememo v1.0.2b0 (May 4, 2025):
+  Removed the ✓s from encoding into âœ in README.md
+ 
+May 4, 2025:
+  First beta release of secretrandom as mememo v1.0.1b0
+
+Note that PyPI orders the version from v1.0.0post0 first to beta releases which is incorrect. The correct ordering is v1.0.1b0, v1.0.2b0 and v1.0.0.post0/v1.0.0r0.
